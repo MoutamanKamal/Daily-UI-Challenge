@@ -9,3 +9,7 @@ Daily UI Challenge files.
 ## Day 2: Credit card checkout form.
 
 <img src="./002/Untitled-1-01.jpg" width="40%"/> <img src="./002/Web-1920–2.jpg" width="40%"/>
+
+## Day 3: A landing page.
+
+<img src="./003/Artboard 1.png" width="40%"/> <img src="./003/Web 1920 – 1.jpg" width="40%"/>
