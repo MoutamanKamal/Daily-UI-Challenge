@@ -13,3 +13,7 @@ Daily UI Challenge files.
 ## Day 3: A landing page.
 
 <img src="./003/Artboard 1.png" width="40%"/> <img src="./003/Web 1920 – 1.jpg" width="40%"/>
+
+## Day 4: A calculator.
+
+<img src="./004/Artboard 2.jpg" />
